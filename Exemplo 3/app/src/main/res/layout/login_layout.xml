@@ -36,7 +36,7 @@
         android:layout_height="50dp"
         android:layout_margin="1dp"
         android:background="#f7a596"
-        android:inputType="numberPassword"
+        android:inputType="numberDecimal"
         />
 
 </LinearLayout>

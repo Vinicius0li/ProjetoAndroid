@@ -10,7 +10,7 @@
 
 
 
-    <ImageButton
+    //<ImageButton
         android:layout_width="300dp"
         android:layout_height="150dp"
         android:src="@drawable/img_splash"
